@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214964557273",
+    "firebase_url": "https://cartocarcomm.firebaseio.com",
+    "project_id": "cartocarcomm",
+    "storage_bucket": "cartocarcomm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214964557273:android:d056f7f56590578e",
+        "android_client_info": {
+          "package_name": "com.example.hammad.cartocarcommunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214964557273-q07firs1huj1rub72su1emtlsqcle6hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsX6JlQRjL0rSQawSklM85bHIqf-QCH2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
