@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hammad.cartocarcommunication.SplashScreen">
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+        
+        
+        <ImageView
+            android:id="@+id/iv"
+            android:src="@drawable/logo"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:scaleType="centerInside"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="30dp"
+            android:layout_weight="2"
+            android:contentDescription="" />
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:text="Welcome to JamNote"
+            android:textSize="32sp"
+            android:layout_marginTop="-110dp"
+            android:textStyle="bold|italic"
+            android:textColor="#ef6c00"
+            tools:ignore="HardcodedText" />
+        
+    </LinearLayout>
+
+</RelativeLayout>

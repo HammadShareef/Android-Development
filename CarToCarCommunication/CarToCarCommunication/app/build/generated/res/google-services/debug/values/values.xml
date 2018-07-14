@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">214964557273-q07firs1huj1rub72su1emtlsqcle6hv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cartocarcomm.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">214964557273</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsX6JlQRjL0rSQawSklM85bHIqf-QCH2I</string>
+    <string name="google_app_id" translatable="false">1:214964557273:android:d056f7f56590578e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsX6JlQRjL0rSQawSklM85bHIqf-QCH2I</string>
+    <string name="google_storage_bucket" translatable="false">cartocarcomm.appspot.com</string>
+    <string name="project_id" translatable="false">cartocarcomm</string>
+</resources>

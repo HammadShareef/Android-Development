@@ -1,0 +1,478 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:20:5-66
+MERGED from [com.firebase:geofire-android:2.1.3] C:\Users\Hammad\.android\build-cache\a8acda7ab5f1309e997d60460e9be6d02767c079\output\AndroidManifest.xml:4:3-64
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:18:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:19:5-98
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:19:22-95
+application
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:21:5-93:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hammad\.android\build-cache\108acbbefeed680fd33663b810576a3d1d2617ac\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hammad\.android\build-cache\5a6c832f836c3be4bffdb55d527f80a7cb1c675f\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Hammad\.android\build-cache\d76a1dcecde224b5cda842cc51e1060203ae3c9c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hammad\.android\build-cache\4cda1ff4ebc122d61b09bb1fdbcb892cc8a55885\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hammad\.android\build-cache\78c4faf8f91d35b5e0f98513b71da6f7606ac424\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hammad\.android\build-cache\ada88eca9cb9010c09ec3ef0bab749c2691e1df3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Hammad\.android\build-cache\46376e5fef9a39867aa262db5b5d8906da4e2cb5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Hammad\.android\build-cache\5626e1e250131ac3cd83208ffaa2b9b480360db5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hammad\.android\build-cache\a2e786497e38448c48878ece772d7ba3066558f3\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hammad\.android\build-cache\7a9fc5578fa57e553c3d18c30e47feb5646c5e65\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Hammad\.android\build-cache\799edf61328e3bda86985f9a0f7c8a3ad490707c\output\AndroidManifest.xml:7:5-11:19
+MERGED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:17:5-61:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Hammad\.android\build-cache\41d598d39e8aa533be271dff5042deba389fb586\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hammad\.android\build-cache\b03818bfb802275871138f98deda8b3627ddd0b5\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hammad\.android\build-cache\d695f69fa5a3b0eea484028dc63c0bf9354273e9\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hammad\.android\build-cache\2d2c0ecf0227b6b4f021de1b86435c7bece64b13\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hammad\.android\build-cache\f39da2e1046f8a534bc9f87d83c7424bc43a94fd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hammad\.android\build-cache\d7f4a6da14c48ace4b8189789c14d8e26af9095a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hammad\.android\build-cache\4bbfdf7f67e15c3837193380b0e6c1d610c20b83\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hammad\.android\build-cache\1cd886f29f0e05594094fee0e30553827837f3a1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hammad\.android\build-cache\e08f22a5638fc654830ee479c655c1a84468d300\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hammad\.android\build-cache\56a228664dd0586fff3563a35a3aea79f149458e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:26:9-35
+	android:roundIcon
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:25:9-48
+	android:allowBackup
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.hammad.cartocarcommunication.MainActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.ALL_APPS+android.intent.category.LAUNCHER
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.ALL_APPS
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:30:17-73
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:30:25-70
+category#android.intent.category.LAUNCHER
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.hammad.cartocarcommunication.AccountActivity.initator.InitatorActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:35:9-79
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:35:19-76
+activity#com.example.hammad.cartocarcommunication.AccountActivity.Receiver.ReceiverActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:36:9-79
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:36:19-76
+activity#com.example.hammad.cartocarcommunication.AccountActivity.initator.initLoginActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:37:9-80
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:37:19-77
+activity#com.example.hammad.cartocarcommunication.AccountActivity.HomeActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:38:9-66
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:38:19-63
+activity#com.example.hammad.cartocarcommunication.RecLogin
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:39:9-41:64
+	android:label
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:40:13-37
+activity#com.example.hammad.cartocarcommunication.AccountActivity.Receiver.RecLoginActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:42:9-79
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:42:19-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:51:9-53:55
+	android:value
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:53:13-52
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:52:13-58
+activity#com.example.hammad.cartocarcommunication.AccountActivity.initator.initMapsActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:55:9-57:64
+	android:label
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:57:13-61
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:56:13-70
+activity#com.example.hammad.cartocarcommunication.AccountActivity.initator.Send_Notification
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:58:9-60:87
+	android:parentActivityName
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:60:13-84
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:59:13-71
+service#com.example.hammad.cartocarcommunication.AccountActivity.initator.FirebaseMessagingService
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:62:9-66:19
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:62:18-83
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:63:13-65:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:64:17-78
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:64:25-75
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:68:9-70:71
+	android:value
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:70:13-68
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:69:13-89
+activity#com.example.hammad.cartocarcommunication.AccountActivity.initator.NotificationActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:72:9-78:20
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:72:19-80
+intent-filter#PushNotification.FirebaseFunction+android.intent.category.DEFAULT
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:73:13-77:29
+action#PushNotification.FirebaseFunction
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:74:25-73
+category#android.intent.category.DEFAULT
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:76:27-73
+activity#com.example.hammad.cartocarcommunication.SplashScreen
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:79:9-85:20
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:79:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAIN
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:81:25-66
+activity#com.example.hammad.cartocarcommunication.AccountActivity.MapsActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:86:9-88:59
+	android:label
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:87:13-57
+activity#com.example.hammad.cartocarcommunication.AccountActivity.initator.recUserMapActivity
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:89:9-91:67
+	android:label
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:91:13-64
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:90:13-72
+activity#com.example.hammad.cartocarcommunication.AccountActivity.dialog_local
+ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:92:9-75
+	android:name
+		ADDED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml:92:19-63
+uses-sdk
+INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hammad\.android\build-cache\108acbbefeed680fd33663b810576a3d1d2617ac\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hammad\.android\build-cache\5a6c832f836c3be4bffdb55d527f80a7cb1c675f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Hammad\.android\build-cache\48210ce191f5290f46294567e3e113e67bdd5c9f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Hammad\.android\build-cache\620ec5f79663ef36ae67f39062bbb28be1fd3ad1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Hammad\.android\build-cache\d76a1dcecde224b5cda842cc51e1060203ae3c9c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hammad\.android\build-cache\4cda1ff4ebc122d61b09bb1fdbcb892cc8a55885\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hammad\.android\build-cache\78c4faf8f91d35b5e0f98513b71da6f7606ac424\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hammad\.android\build-cache\ada88eca9cb9010c09ec3ef0bab749c2691e1df3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hammad\.android\build-cache\0fdc22326d24ee83dd817ac309aba387b4566558\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Hammad\.android\build-cache\46376e5fef9a39867aa262db5b5d8906da4e2cb5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Hammad\.android\build-cache\5626e1e250131ac3cd83208ffaa2b9b480360db5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hammad\.android\build-cache\a2e786497e38448c48878ece772d7ba3066558f3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.firebase:geofire-android:2.1.3] C:\Users\Hammad\.android\build-cache\a8acda7ab5f1309e997d60460e9be6d02767c079\output\AndroidManifest.xml:2:3-70
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Hammad\.android\build-cache\b283649e1da2d01096712b8cfc8ae80d07d750c7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Hammad\.android\build-cache\48517589a3e5a2169d3b4460b43b1773a9743c1f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hammad\.android\build-cache\7a9fc5578fa57e553c3d18c30e47feb5646c5e65\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Hammad\.android\build-cache\799edf61328e3bda86985f9a0f7c8a3ad490707c\output\AndroidManifest.xml:5:5-43
+MERGED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Hammad\.android\build-cache\41d598d39e8aa533be271dff5042deba389fb586\output\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hammad\.android\build-cache\b03818bfb802275871138f98deda8b3627ddd0b5\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hammad\.android\build-cache\d695f69fa5a3b0eea484028dc63c0bf9354273e9\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hammad\.android\build-cache\2d2c0ecf0227b6b4f021de1b86435c7bece64b13\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hammad\.android\build-cache\f39da2e1046f8a534bc9f87d83c7424bc43a94fd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hammad\.android\build-cache\d7f4a6da14c48ace4b8189789c14d8e26af9095a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hammad\.android\build-cache\4bbfdf7f67e15c3837193380b0e6c1d610c20b83\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hammad\.android\build-cache\1cd886f29f0e05594094fee0e30553827837f3a1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hammad\.android\build-cache\e08f22a5638fc654830ee479c655c1a84468d300\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hammad\.android\build-cache\56a228664dd0586fff3563a35a3aea79f149458e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Hammad\.android\build-cache\d76a1dcecde224b5cda842cc51e1060203ae3c9c\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\CarToCarCommunication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Hammad\.android\build-cache\d76a1dcecde224b5cda842cc51e1060203ae3c9c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hammad\.android\build-cache\4cda1ff4ebc122d61b09bb1fdbcb892cc8a55885\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hammad\.android\build-cache\78c4faf8f91d35b5e0f98513b71da6f7606ac424\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hammad\.android\build-cache\ada88eca9cb9010c09ec3ef0bab749c2691e1df3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hammad\.android\build-cache\0fdc22326d24ee83dd817ac309aba387b4566558\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Hammad\.android\build-cache\46376e5fef9a39867aa262db5b5d8906da4e2cb5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hammad\.android\build-cache\f39da2e1046f8a534bc9f87d83c7424bc43a94fd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hammad\.android\build-cache\d7f4a6da14c48ace4b8189789c14d8e26af9095a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hammad\.android\build-cache\4bbfdf7f67e15c3837193380b0e6c1d610c20b83\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hammad\.android\build-cache\1cd886f29f0e05594094fee0e30553827837f3a1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hammad\.android\build-cache\e08f22a5638fc654830ee479c655c1a84468d300\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hammad\.android\build-cache\56a228664dd0586fff3563a35a3aea79f149458e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Hammad\.android\build-cache\d76a1dcecde224b5cda842cc51e1060203ae3c9c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Hammad\.android\build-cache\d76a1dcecde224b5cda842cc51e1060203ae3c9c\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Hammad\.android\build-cache\558180cb02da258a7f92ebb1c78c23184df15edf\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hammad\.android\build-cache\a2e786497e38448c48878ece772d7ba3066558f3\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hammad\.android\build-cache\a2e786497e38448c48878ece772d7ba3066558f3\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hammad\.android\build-cache\a2e786497e38448c48878ece772d7ba3066558f3\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hammad\.android\build-cache\a2e786497e38448c48878ece772d7ba3066558f3\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hammad\.android\build-cache\7a9fc5578fa57e553c3d18c30e47feb5646c5e65\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hammad\.android\build-cache\7a9fc5578fa57e553c3d18c30e47feb5646c5e65\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hammad\.android\build-cache\7a9fc5578fa57e553c3d18c30e47feb5646c5e65\output\AndroidManifest.xml:23:18-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Hammad\.android\build-cache\799edf61328e3bda86985f9a0f7c8a3ad490707c\output\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hammad\.android\build-cache\2d2c0ecf0227b6b4f021de1b86435c7bece64b13\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Hammad\.android\build-cache\799edf61328e3bda86985f9a0f7c8a3ad490707c\output\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Hammad\.android\build-cache\799edf61328e3bda86985f9a0f7c8a3ad490707c\output\AndroidManifest.xml:9:13-58
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:12:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:15:22-76
+receiver#com.pusher.pushnotifications.reporting.FCMMessageReceiver
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:18:9-27:20
+	android:exported
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:19:13-85
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:22:13-26:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:23:17-81
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:23:25-78
+category#${applicationId}
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:25:17-61
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:25:27-58
+service#com.pusher.pushnotifications.reporting.ReportingJobService
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:29:9-36:19
+	android:exported
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:30:13-86
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:33:13-35:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:34:17-84
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:34:25-81
+service#com.pusher.pushnotifications.fcm.FCMInstanceIDService
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:37:9-41:19
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:37:18-86
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:38:13-40:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:39:17-80
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:39:25-77
+service#com.pusher.pushnotifications.fcm.EmptyMessagingService
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:42:9-46:19
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:42:18-87
+provider#com.pusher.pushnotifications.internal.PushNotificationsInitProvider
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:48:9-52:38
+	android:authorities
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:50:13-81
+	android:exported
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:51:13-37
+	android:initOrder
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:52:13-35
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:49:13-95
+activity#com.pusher.pushnotifications.reporting.OpenNotificationActivity
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:54:9-60:20
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:54:19-97
+intent-filter#android.intent.category.DEFAULT+com.pusher.pushnotifications.OPEN_TRACKING
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:55:13-59:29
+action#com.pusher.pushnotifications.OPEN_TRACKING
+ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:56:17-85
+	android:name
+		ADDED from [com.pusher:push-notifications-android:0.10.0] C:\Users\Hammad\.android\build-cache\b502bca76bd686cf09be04b83a2a33865bffe649\output\AndroidManifest.xml:56:25-82
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\Hammad\.android\build-cache\bb486e625f8d4aa3a1c9caaee638d4242f4d91cf\output\AndroidManifest.xml:37:25-84
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hammad\.android\build-cache\eda1bbb59e0260df06b15ca17367b894c72bddb2\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hammad\.android\build-cache\ef398636d3d52f25c619e68b2905ebb9f18117d9\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:22:22-79
+permission#com.example.hammad.cartocarcommunication.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:24:5-109
+uses-permission#com.example.hammad.cartocarcommunication.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:26:5-78
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:30:19-84
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hammad\.android\build-cache\cafdb6f18afaa60cf6b3e943924286f410495e55\output\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hammad\.android\build-cache\cae92d1ee3d9570753a01534500dec5e4221ee99\output\AndroidManifest.xml:6:79-143

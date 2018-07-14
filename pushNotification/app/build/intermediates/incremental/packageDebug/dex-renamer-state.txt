@@ -1,0 +1,4 @@
+#Tue Apr 17 03:16:56 PKT 2018
+base.0=D\:\\FYP\\Android Project\\pushNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\FYP\\Android Project\\pushNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
